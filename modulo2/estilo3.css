@@ -535,6 +535,15 @@ ul li {
     .modal-contenido {
         width: 80%;
     }
+
+    .contenedor {
+        margin: 6px 5px;
+        margin-bottom: 6px;
+    }
+
+    .contenedor .boton {
+        font-size: 18px;
+    }
 }
 
 @media (min-width: 1310px) {
