@@ -528,6 +528,15 @@ ul li {
         padding: 10px;
         overflow-y: auto; /* Habilita el desplazamiento vertical si el contenido excede la altura */
     }
+
+    .contenedor {
+        margin: 6px 5px;
+        margin-bottom: 6px;
+    }
+
+    .contenedor .boton {
+        font-size: 18px;
+    }
 }
 
 @media (min-width: 1310px) {
